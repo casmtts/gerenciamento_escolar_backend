@@ -1,10 +1,4 @@
 🏫 Backend do sistema de Gestão Escolar - Uma API RESTful robusta e escalável para administração de instituições de ensino.
-https://img.shields.io/badge/Java-17-blue.svg
-https://img.shields.io/badge/Spring%2520Boot-3.3.3-brightgreen.svg
-https://img.shields.io/badge/PostgreSQL-Latest-blue.svg
-https://img.shields.io/badge/Maven-3.9.x-red.svg
-https://img.shields.io/badge/Hibernate-6.6.0-orange.svg
-
 
 🎯 Visão Geral
 O Gestão Escolar Backend é a camada de servidor de uma aplicação completa para gerenciamento educacional. Desenvolvido com as melhores práticas de engenharia de software, oferece uma API segura, performática e fácil de integrar com diferentes frontends (web, mobile, desktop).
